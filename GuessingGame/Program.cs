@@ -10,29 +10,21 @@ internal class Program
 
     while (!player.GameOver)
     {
-      Console.WriteLine("\nPlease enter your guess, pick a number from 1 to 10");
+      player.GetUserInput();
 
-      var userAnswer = Console.ReadLine();
-
-      if (!string.IsNullOrEmpty(userAnswer))
+      if (player.Guess < player.Answer)
       {
-        player.Guess = int.Parse(userAnswer);
-
-        if (player.Guess < player.Answer)
-        {
-          Console.WriteLine("Your guess is to below");
-        }
-        else if (player.Guess > player.Answer)
-        {
-          Console.WriteLine("Your guess is to high");
-        }
-        else
-        {
-          Console.WriteLine($"You guessed it right! the number is {player.Answer}");
-          player.GameOver = true;
-        }
+        Console.WriteLine("Your guess is to below");
       }
-
+      else if (player.Guess > player.Answer)
+      {
+        Console.WriteLine("Your guess is to high");
+      }
+      else
+      {
+        Console.WriteLine($"You guessed it the number is {player.Answer}");
+        player.GameOver = true;
+      }
     }
   }
 }

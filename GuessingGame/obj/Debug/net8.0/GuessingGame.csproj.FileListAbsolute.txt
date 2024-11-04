@@ -1,0 +1,15 @@
+/home/wilson/Repositories/guessing-game/GuessingGame/bin/Debug/net8.0/GuessingGame
+/home/wilson/Repositories/guessing-game/GuessingGame/bin/Debug/net8.0/GuessingGame.deps.json
+/home/wilson/Repositories/guessing-game/GuessingGame/bin/Debug/net8.0/GuessingGame.runtimeconfig.json
+/home/wilson/Repositories/guessing-game/GuessingGame/bin/Debug/net8.0/GuessingGame.dll
+/home/wilson/Repositories/guessing-game/GuessingGame/bin/Debug/net8.0/GuessingGame.pdb
+/home/wilson/Repositories/guessing-game/GuessingGame/obj/Debug/net8.0/GuessingGame.GeneratedMSBuildEditorConfig.editorconfig
+/home/wilson/Repositories/guessing-game/GuessingGame/obj/Debug/net8.0/GuessingGame.AssemblyInfoInputs.cache
+/home/wilson/Repositories/guessing-game/GuessingGame/obj/Debug/net8.0/GuessingGame.AssemblyInfo.cs
+/home/wilson/Repositories/guessing-game/GuessingGame/obj/Debug/net8.0/GuessingGame.csproj.CoreCompileInputs.cache
+/home/wilson/Repositories/guessing-game/GuessingGame/obj/Debug/net8.0/GuessingGame.sourcelink.json
+/home/wilson/Repositories/guessing-game/GuessingGame/obj/Debug/net8.0/GuessingGame.dll
+/home/wilson/Repositories/guessing-game/GuessingGame/obj/Debug/net8.0/refint/GuessingGame.dll
+/home/wilson/Repositories/guessing-game/GuessingGame/obj/Debug/net8.0/GuessingGame.pdb
+/home/wilson/Repositories/guessing-game/GuessingGame/obj/Debug/net8.0/GuessingGame.genruntimeconfig.cache
+/home/wilson/Repositories/guessing-game/GuessingGame/obj/Debug/net8.0/ref/GuessingGame.dll
