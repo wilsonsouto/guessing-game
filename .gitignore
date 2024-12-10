@@ -1,0 +1,39 @@
+# Ignore Visual Studio temporary files, directories, and files
+.vs/
+.vscode/
+.idea/
+
+# User-specific files
+*.user
+*.userosscache
+*.suo
+*.userprefs
+
+# Build results
+[Dd]ebug/
+[Dd]ebugPublic/
+[Dd]ist/
+[Dd]istPublic/
+bin/
+obj/
+
+# User-specific files
+.vs2019/
+.vs2017/
+
+# Windows Installer files
+*.cab
+*.msi
+*.msm
+*.msp
+
+# Windows Installer Log files
+*.cab
+*.msi
+*.msm
+*.msp
+
+# Windows Installer
+*.bak
+*.swp
+*.sql
